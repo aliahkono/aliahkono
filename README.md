@@ -1,19 +1,25 @@
-<h1 align="left">Hi there <img height="65" src="https://media.tenor.com/oOzrJjzToQ0AAAAj/cute-cat.gif" width="65" />  What's up?</h2>
-<h3 align="left"> Welcome to my profile</h3>
-<p>My name is Aliah and I'm a incoming 3rd Year Computer Science Student, from <img src="https://cdn-icons-png.flaticon.com/128/197/197561.png" width="17" /> <b>Quezon Province, Philippines</b>. </p>
+<h1 align="left">
+  Hi there 
+  <img height="40" src="https://media.tenor.com/oOzrJjzToQ0AAAAj/cute-cat.gif" width="40" />
+  What's up?
+</h1>
+<h3 align="left">Welcome to my profile</h3>
+<p>
+  My name is Aliah and I'm an incoming 3rd Year Computer Science Student, from 
+  <img src="https://cdn-icons-png.flaticon.com/128/197/197561.png" width="17" /> 
+  <b>Quezon Province, Philippines</b>.
+</p>
 
-## Github Stats:
+<h3 align="left">Github Stats:</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aliahkono&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aliahkono&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=aliahkono&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aliahkono&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
-###
+<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjgyMjM5OTY0N29ucmltNGdxdGU1d2p3ZGp2N3BhYjV2aWMzM3JyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XkOXScPcjCy3tiBiXH/giphy.gif" />
 
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjgyMjM5OTY0N29ucmltNGdxdGU1d2p3ZGp2N3BhYjV2aWMzM3JyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XkOXScPcjCy3tiBiXH/giphy.gif"  />
-
-## Programming Languages:
+<h3 align="left">Programming Languages:</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
@@ -37,9 +43,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo" />
 </div>
 
-
-
-## Connect with me:
+<h3 align="left">Connect with me:</h3>
 
 <div align="left">
   <a href="https://www.instagram.com/iahkono.divinagracia" target="_blank">
@@ -59,10 +63,8 @@
   </a>
 </div>
 
-## My Respiratories Stat:
+<h3 align="left">My Respiratories</h3>
 
-<br clear="both">
+<br clear="both" />
 
 <img src="https://raw.githubusercontent.com/aliahkono/aliahkono/output/snake.svg" alt="Snake animation" />
-
-###
