@@ -1,6 +1,6 @@
 <h1 align="left">Hi there <img height="65" src="https://media.tenor.com/oOzrJjzToQ0AAAAj/cute-cat.gif" width="65" />  What's up?</h2>
 <h3 align="left"> Welcome to my profile</h3>
-<p>My name is Aliah and I'm a 3rd Year Computer Science Student, from <img src="https://cdn-icons-png.flaticon.com/128/197/197561.png" width="17" /> <b>Quezon Province, Philippines</b>. </p>
+<p>My name is Aliah and I'm a incoming 3rd Year Computer Science Student, from <img src="https://cdn-icons-png.flaticon.com/128/197/197561.png" width="17" /> <b>Quezon Province, Philippines</b>. </p>
 
 ###
 
