@@ -67,4 +67,5 @@
 
 <br clear="both" />
 
-<img src="https://raw.githubusercontent.com/aliahkono/aliahkono/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/aliahkono/aliahkono/output/snake.svg?palette=github-dark" alt="Snake animation" />
+
