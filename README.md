@@ -3,9 +3,11 @@
   <img height="40" src="https://media.tenor.com/oOzrJjzToQ0AAAAj/cute-cat.gif" width="40" />
   What's up?
 </h1>
+
 <h3 align="left">Welcome to my profile</h3>
+
 <p>
-  My name is Aliah and I'm an incoming 3rd Year Computer Science Student, from 
+  My name is Aliah and I'm an incoming 3rd Year Computer Science Student at Manuel S. Enverga University Foundation, Lucena City, and I'm from 
   <img src="https://cdn-icons-png.flaticon.com/128/197/197561.png" width="17" /> 
   <b>Quezon Province, Philippines</b>.
 </p>
@@ -13,8 +15,21 @@
 <h3 align="left">Github Stats:</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aliahkono&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliahkono&layout=compact&theme=tokyonight&langs_count=6" height="180" alt="Top languages" />
+  <!-- Main GitHub stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=aliahkono&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&token=YOUR_GITHUB_TOKEN" 
+    height="180" 
+    alt="GitHub stats"
+    onerror="this.onerror=null;this.src='https://img.shields.io/badge/GitHub%20Stats-Offline-red';" 
+  />
+
+  <!-- Top languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliahkono&layout=compact&theme=tokyonight&langs_count=6&token=YOUR_GITHUB_TOKEN" 
+    height="180" 
+    alt="Top languages"
+    onerror="this.onerror=null;this.src='https://img.shields.io/badge/Top%20Languages-Offline-red';"
+  />
 </div>
 
 <img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjgyMjM5OTY0N29ucmltNGdxdGU1d2p3ZGp2N3BhYjV2aWMzM3JyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XkOXScPcjCy3tiBiXH/giphy.gif" />
@@ -63,10 +78,8 @@
   </a>
 </div>
 
-<h3 align="left">My Respiratories</h3>
+<h3 align="left">My Repositories:</h3>
 
 <br clear="both" />
 
 <img src="https://raw.githubusercontent.com/aliahkono/aliahkono/output/snake.svg" alt="Snake animation" />
-
-
