@@ -7,7 +7,7 @@
 <h3 align="left">Welcome to my profile</h3>
 
 <p>
-  My name is Aliah and I'm an incoming 3rd Year Computer Science Student at Manuel S. Enverga University Foundation, Lucena City, and I'm from 
+  My name is Aliah and I'm an 3rd Year Computer Science Student at Manuel S. Enverga University Foundation, Lucena City, and I'm from 
   <img src="https://cdn-icons-png.flaticon.com/128/197/197561.png" width="17" /> 
   <b>Quezon Province, Philippines</b>.
 </p>
