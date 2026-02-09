@@ -1,87 +1,67 @@
 <h1 align="left">
-  Hi there 
-  <img height="40" src="https://media.tenor.com/oOzrJjzToQ0AAAAj/cute-cat.gif" width="40" />
-  What's up?
+  Hi there! I'm Aliah <img src="https://media.tenor.com/oOzrJjzToQ0AAAAj/cute-cat.gif" width="35" />
 </h1>
 
-<h3 align="left">Welcome to my profile</h3>
-
-<p>
-  My name is Aliah and I'm an 3rd Year Computer Science Student at Manuel S. Enverga University Foundation, Lucena City, and I'm from 
-  <img src="https://cdn-icons-png.flaticon.com/128/197/197561.png" width="17" /> 
-  <b>Quezon Province, Philippines</b>.
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-3rd%20Year%20CS%20Student-blue?style=flat-square" alt="Student Status">
+  <img src="https://img.shields.io/badge/Location-Quezon%2C%20PH-red?style=flat-square" alt="Location">
 </p>
 
-<h3 align="left">Github Stats:</h3>
+<p>
+  I'm a 3rd Year Computer Science student at <b>Manuel S. Enverga University Foundation</b>. I have a strong interest in <b>Mobile Development</b>, <b>Cybersecurity</b>, and the intersection of <b>Technology and Healthcare</b>.
+</p>
+
+<hr />
+
+### 🚀 Current Focus
+- 📱 **Thesis Project:** Developing **ResQ**, a geospatial blood donor matching app for Lucena City.
+- 📡 **Research:** Exploring BLE-based hospital asset tracking and crowdsourced traffic solutions.
+- 🔐 **Interests:** Automata theory and ICT national security.
+
+### 🛠️ Tech Stack & Tools
+**Languages & Core:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+**Mobile & Web Development:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+**Database & Tools:**
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+<hr />
+
+### 📊 GitHub Activity
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aliahkono&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliahkono&layout=compact&theme=tokyonight&langs_count=6" width="48%" />
+</div>
+
+<br />
 
 <div align="center">
-  <!-- Main GitHub stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=aliahkono&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&token=YOUR_GITHUB_TOKEN" 
-    height="180" 
-    alt="GitHub stats"
-    onerror="this.onerror=null;this.src='https://img.shields.io/badge/GitHub%20Stats-Offline-red';" 
-  />
-
-  <!-- Top languages -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliahkono&layout=compact&theme=tokyonight&langs_count=6&token=YOUR_GITHUB_TOKEN" 
-    height="180" 
-    alt="Top languages"
-    onerror="this.onerror=null;this.src='https://img.shields.io/badge/Top%20Languages-Offline-red';"
-  />
+  <img src="https://raw.githubusercontent.com/aliahkono/aliahkono/output/snake.svg" alt="Snake animation" width="100%" />
 </div>
 
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjgyMjM5OTY0N29ucmltNGdxdGU1d2p3ZGp2N3BhYjV2aWMzM3JyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XkOXScPcjCy3tiBiXH/giphy.gif" />
+<hr />
 
-<h3 align="left">Programming Languages:</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="sql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="30" alt="swift logo" />
-</div>
-
-<h3 align="left">Connect with me:</h3>
-
-<div align="left">
-  <a href="https://www.instagram.com/iahkono.divinagracia" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
-  <a href="https://www.facebook.com/aliahcoleen.divinagracia" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
-  </a>
-  <a href="https://discord.com/users/kyutiekonoburi2005" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
-  </a>
-  <a href="mailto:aliahcoleen.divi@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/aliah-coleen-divinagracia-7365681aa/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-</div>
-
-<h3 align="left">My Repositories:</h3>
-
-<br clear="both" />
-
-<img src="https://raw.githubusercontent.com/aliahkono/aliahkono/output/snake.svg" alt="Snake animation" />
+### 📫 Connect with me
+<p align="left">
+  <a href="https://www.linkedin.com/in/aliah-coleen-divinagracia-7365681aa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:aliahcoleen.divi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://discord.com/users/kyutiekonoburi2005" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://www.instagram.com/iahkono.divinagracia" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
