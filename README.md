@@ -38,11 +38,6 @@
 <hr />
 
 ### 📊 GitHub Activity
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aliahkono&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliahkono&layout=compact&theme=tokyonight&langs_count=6" width="48%" />
-</div>
-
 <br />
 
 <div align="center">
