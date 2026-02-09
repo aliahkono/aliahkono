@@ -11,13 +11,6 @@
   I'm a 3rd Year Computer Science student at <b>Manuel S. Enverga University Foundation</b>. I have a strong interest in <b>Mobile Development</b>, <b>Cybersecurity</b>, and the intersection of <b>Technology and Healthcare</b>.
 </p>
 
-<hr />
-
-### 🚀 Current Focus
-- 📱 **Thesis Project:** Developing **ResQ**, a geospatial blood donor matching app for Lucena City.
-- 📡 **Research:** Exploring BLE-based hospital asset tracking and crowdsourced traffic solutions.
-- 🔐 **Interests:** Automata theory and ICT national security.
-
 ### 🛠️ Tech Stack & Tools
 **Languages & Core:**
 <p align="left">
