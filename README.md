@@ -8,7 +8,7 @@
 </p>
 
 <p>
-  I'm a 3rd Year Computer Science student at <b>Manuel S. Enverga University Foundation</b>. I have a strong interest in <b>Mobile Development</b>, <b>Cybersecurity</b>, and the intersection of <b>Technology and Healthcare</b>.
+  I'm a 4th Year Computer Science student at <b>Manuel S. Enverga University Foundation</b>. I have a strong interest in <b>Mobile Development</b>, <b>Cybersecurity</b>, and the intersection of <b>Technology and Healthcare</b>.
 </p>
 
 ### 🛠️ Tech Stack & Tools
