@@ -3,7 +3,7 @@
 </h1>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Status-3rd%20Year%20CS%20Student-blue?style=flat-square" alt="Student Status">
+  <img src="https://img.shields.io/badge/Status-4th%20Year%20CS%20Student-blue?style=flat-square" alt="Student Status">
   <img src="https://img.shields.io/badge/Location-Quezon%2C%20PH-red?style=flat-square" alt="Location">
 </p>
 
